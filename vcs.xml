@@ -162,6 +162,10 @@
           <option name="url" value="https://github.com/jdi-examples/jdi-light-report-portal-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jdi-examples/jdi-introduction.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\projects" />
