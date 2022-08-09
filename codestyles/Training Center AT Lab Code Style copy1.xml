@@ -41,9 +41,9 @@
     </option>
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
-        <package name="" withSubpackages="true" static="true" />
-        <emptyLine />
         <package name="" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="" withSubpackages="true" static="true" />
       </value>
     </option>
     <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
