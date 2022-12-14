@@ -4,7 +4,6 @@
       <mapping pattern="Board" type="AUTO_DETECTED" />
       <mapping pattern="JdiSite" type="AUTO_DETECTED" />
       <mapping pattern="nbcv" type="JAVA" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="fasta" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
